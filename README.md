@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# enseResp <img src='man/figures/logo.png' align="right" height="138.5" />
+# enseResp <img src="man/figures/logo.png" align="right" width="120"/>
 
 **Author**: Edu Gonzalo Almorox
 
@@ -10,8 +10,6 @@
 [![](https://img.shields.io/badge/devel%20version-0.1.0-blue.svg)](https://github.com/rOpenSpain/enseResp)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-[![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![rOS-badge](https://ropenspain.github.io/rostemplate/reference/figures/ropenspain-badge.svg)](https://ropenspain.es/)
 <!-- badges: end -->
 

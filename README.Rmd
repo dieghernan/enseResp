@@ -15,15 +15,13 @@ knitr::opts_chunk$set(
 )
 ```
 
-# enseResp <img src='man/figures/logo.png' align="right" height="138.5" />
+# enseResp <img src="man/figures/logo.png" align="right" width="120"/>
 
 **Author**: Edu Gonzalo Almorox
 
 <!-- badges: start -->
 
 `r badger::badge_devel("rOpenSpain/enseResp", "blue")``r usethis::use_lifecycle_badge("experimental")`
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![rOS-badge](https://ropenspain.github.io/rostemplate/reference/figures/ropenspain-badge.svg)](https://ropenspain.es/)
 <!-- badges: end -->
 

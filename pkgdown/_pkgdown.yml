@@ -1,0 +1,8 @@
+url: 'https://ropenspain.github.io/CatastRoNav'
+
+template:
+  package: rostemplate
+
+authors:
+  Edu Gonzalo Almorox:
+    href: 'https://edugonzalmo.netlify.app/'

@@ -1,0 +1,36 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.1
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "enseResp" in publications use:'
+type: software
+license: MIT
+title: 'enseResp: Information on the Spanish Health Survey'
+version: 0.1.0
+abstract: 'This package provides information in the Spanish Health Survey. It contains
+  three samples: adults, households and kids.'
+authors:
+- family-names: Gonzalo Almorox
+  given-names: Edu
+  email: eduardogonzaloalmorox@gmail.com
+repository-code: https://github.com/rOpenSpain/enseResp
+url: https://github.com/rOpenSpain/enseResp
+contact:
+- family-names: Gonzalo Almorox
+  given-names: Edu
+  email: eduardogonzaloalmorox@gmail.com
+references:
+- type: software
+  title: 'R: A Language and Environment for Statistical Computing'
+  notes: Depends
+  url: https://www.R-project.org/
+  authors:
+  - name: R Core Team
+  location:
+    name: Vienna, Austria
+  year: '2023'
+  institution:
+    name: R Foundation for Statistical Computing
+  version: '>= 2.10'

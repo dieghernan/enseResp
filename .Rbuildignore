@@ -2,3 +2,12 @@
 ^\.Rproj\.user$
 ^data-raw$
 ^README\.Rmd$
+^LICENSE\.md$
+^docs$
+^documentation$
+^funs$
+^logo$
+^pkgdown$
+^\.github$
+^_pkgdown\.yml$
+^CITATION\.cff$
